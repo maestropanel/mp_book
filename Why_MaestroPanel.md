@@ -24,3 +24,4 @@ Kontrol Panel kullanıcısı arayüzleri istediği gibi değiştirebilmeli, gere
 
 Kontrol Panel bir çok sistem, çalıştırma ortamı ve servis ile haberleşebilmektedir. Bu servisler birbirinden tamamen izole çalışmalı bir diğerinbi etkilememelidir. Kontrol Panel kullanıcısı aynı zamanda kendi sunduğu özel servisleri Kontrol Panel'e modül olarak ekleyebilmelidir.
 
+İşte tüm bu kavramlar göz önüne alınarak MaestroPanel tasarlanarak hayata geçirilmiş ve bu kavramlar doğrultusunda da geliştirilmeye devam etmektedir.
