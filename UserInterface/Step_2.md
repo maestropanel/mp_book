@@ -1,8 +1,10 @@
-Adım 2
+# Adım 2
+
+
+İkinci adım yönetici e-posta adresinin, destek e-posta adresinin ve parola güvelik seviyesini tanımlayabileceğiniz ekrandır. (Bu bilgiler Menü > Ayarlar bölümünden de daha sonra düzenlenebilir)
 
 ![](https://lh4.googleusercontent.com/fN5n3PzUznBO7KdbSUCz-_Ol6-h-tWjWjADhz6IfBBA--H28FYUXcF0cl_c-fgUUumoOyDpVMktt_PnlgBHhLY8NdXJdlsJlvINmsZ8OHZ1078dprl9nHeXiUQIc4m4ZQA)
 
-İkinci adım yönetici e-posta adresinin, destek e-posta adresinin ve parola güvelik seviyesini tanımlayabileceğiniz ekrandır. (Bu bilgiler Menü > Ayarlar bölümünden de daha sonra düzenlenebilir)
 
 **Yönetici Email**
 
