@@ -1,4 +1,4 @@
-## Lisanslama
+## MaestroPanel Lisanslama
 
 MaestroPanel'in esnek bir lisanslama sistemi vardır. Lisans Anahtarına sahip olduğunuzda bu anahtarın özellikleri ve limitleri dahilinde MaestroPanel'i kullanabilirsiniz.
 
@@ -9,6 +9,8 @@ MaestroPanel'in lisans anahtarlarının oluşturulduğu ve doğrulandığı alan
 * [secure.maestropanel.com](https://secure.maestropanel.com)
 
 adresi üzerinden erişebilirsiniz.
+
+![](https://lh4.googleusercontent.com/oxU-2qhOcRj3JBLobxbyWLskf9uNA8yXr2fFPSmY4deKfHtjk5Z04JUrQ_9pin4MEQo78_-BEYpkrlnBhy9PXUOXV6GUcw3GDTFg-DVffsIgHd8p9SnNsKpdnj8SBtVjxw)
 
 Bu alana ayrı bir servis olup tüm lisanslar ve ödemeler bu alandan Kredi Kartı veya Banka Havalesi ile yapılabilmektedir.
 
