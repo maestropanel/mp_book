@@ -9,3 +9,7 @@ MaestroPanel'in Web Servisidir. Web uygulaması şeklinde tasarlanmış olup sun
 ## Controller
 
 MaestroPanel'in Web Servisidir. Web uygulaması şeklinde tasarlanmış olup sunucuları yönettiğiniz alandır.
+
+## Lisans Kontrol Paneli
+
+MaestroPanel'in lisans yönetimi için kullanılan secure.maestropanel.com üzerinden erişilen bir web servisidir.
