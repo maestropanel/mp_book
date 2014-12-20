@@ -15,3 +15,12 @@ Web Hosting hizmeti sunarken veya belirli bir proje kapsamında sistemleri yöne
 **İşletim Sistemi Bağımsızlığı**
 
 Web Hosting sistemlerindeki servisleri geliştirildiği işletim sisteminde çalıştırmak çoğu zaman performans ve hizmet kalitesi anlamında büyük fayda sağlamaktadır. Kontrol Panel Windows, Linux sistemlerini destekler nitelikte olmalı ve Domain seviyesinde bunu uygulayabilmelidir.
+
+**Özgür Arayüzler**
+
+Kontrol Panel kullanıcısı arayüzleri istediği gibi değiştirebilmeli, gerekirse kendi Temasını tasarlayıp Kontrol Panel üzerinde kolaylıkla kullanabilmelidir. Aynı zamanda çoklu dil desteği sağlamalıdır.
+
+**Modüler Yapı**
+
+Kontrol Panel bir çok sistem, çalıştırma ortamı ve servis ile haberleşebilmektedir. Bu servisler birbirinden tamamen izole çalışmalı bir diğerinbi etkilememelidir. Kontrol Panel kullanıcısı aynı zamanda kendi sunduğu özel servisleri Kontrol Panel'e modül olarak ekleyebilmelidir.
+
