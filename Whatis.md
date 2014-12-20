@@ -1,4 +1,4 @@
-## Nedir?
+## MaestroPanel Nedir?
 
 MaestroPanel, kısaca yeni nesil Web Hosting Kontrol Panel yazılımıdır.
 
