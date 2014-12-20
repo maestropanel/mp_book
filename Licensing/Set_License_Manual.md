@@ -6,7 +6,6 @@ MaestroPanel'in lisanslamasını sunucunun lisans server'a çıkışı olamamas�
 
 ![](http://wiki.maestropanel.com/wp-content/uploads/2014/12/license_1.png)
 
-
 **2)** Lisans detay ekranındaki "**Lisans**" tab’ına tıkladığınızda MaestroPanel’e manual olarak ekleyeceğiniz **License.lic** ve **License.key** dosya içerikleri ile karşılaşacaksınız.
 
 ![](http://wiki.maestropanel.com/wp-content/uploads/2014/12/license_2.png)
