@@ -34,4 +34,6 @@
        * [IP Adresi Değiştirmek](Domain/Domain_Change_IpAddr.md)
        * [Ip Adresi Silme](Domain/Domain_Delete_IpAddr.md)
        * [Domain Modülleri](Domain/Domain_Modules.md)
+        * [Yeni Özellik Ekle](Domain/Add_Domain_Module.md)
+        * [Özellik Sil](Domain/Delete_Domain_Module.md)
 
