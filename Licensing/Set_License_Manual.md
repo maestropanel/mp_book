@@ -22,3 +22,5 @@ MaestroPanel'in lisanslamasını sunucunun lisans server'a çıkışı olamamas�
 Artık MaestroPanel geçerli bir lisansa sahip olduğunu anlayacak ve lisans özelliklerine göre çalışmaya başlayacakır.
 
 ![](http://wiki.maestropanel.com/wp-content/uploads/2014/12/license_ok_2.png)
+
+> Wiki: http://wiki.maestropanel.com/maestropanel-lisans-hack/
