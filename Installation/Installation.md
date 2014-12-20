@@ -27,6 +27,8 @@ MaestroPanel'i
 
 adresinden indirebilirsiniz.
 
+![](https://lh3.googleusercontent.com/TsQNPeQ88R2jVYjgJbnRIoD19XQnrgFgD5dMkwCQ22tgD06Ew1pza7hJCG0v0CKAPwecxp2fm4O5yVkWXSt3TKzX3lPKlC29WHdwnnQsWMdBqfy7th_O1qm1qUz5plGrfQ)
+
 İhtiyaç duyulabilecek diğer gerekli dosyalara 
 
 * http://repo.maestropanel.com/A1 
