@@ -11,7 +11,7 @@
     * [Windows Server](Installation/Windows.md)
         * [Katılımsız Kurulum](Installation/Installation_Unattended.md)
     * Centos
-* [İlk Giriş](UserInterface/Default.md)
+* [MaestroPanel](UserInterface/Default.md)
 * [Profil Yönetimi](UserInterface/Profile.md)
 * [Domain Yönetimi](Domain/Default.md)
    * [Domain Planları](Domain/Domain_Plans.md)
