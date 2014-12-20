@@ -1,6 +1,7 @@
 ## Kurulum (Windows)
 
 Sunucunuza MaestroPanel.exe yi indirdikten sonra herhangi bir ayar yapmadan direkt Administrator kullanıcı hakları ile çalıştırıp kuruluma başlayabilirsiniz.
+
 **MaestroPanel.exe** dosyasını çalıştırdığınızda karşınıza ilk olarak MaestroPanel'in hangi dizine kurulacağını belirleyebileceğiniz A1 ekranı gelecektir.
 
 Varsayılan olarak olarak *C:\Program Files\MaestroPanel* klasörü hedef gösterilmiştir. Setup bu dizini gerektiği şekilde oluşturup güvenliğini sağlayarak kuruluma başlayacaktır. 
