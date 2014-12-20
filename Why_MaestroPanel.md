@@ -2,19 +2,19 @@
 
 MaestroPanel;
 
-alışıla gelmiş, sürekli sorun çıkaran, sizi kısıtlayan, esnek olmayan kemikleşmiş kontrol panellerin yetersizliğinden çok acılar çekmiş ufak bir ekip tarafından geliştirilmeye karar vermiştir.
+Alışıla gelmiş, sürekli sorun çıkaran, sizi kısıtlayan, esnek olmayan kemikleşmiş kontrol panellerin yetersizliğinden çok acılar çekmiş ufak bir ekip tarafından geliştirilmeye başlanmıştır.
 
-Kullandıkları bir çok Kontrol Panel'den dert yanan bu ekip MaestroPanel'i geliştirirken temel aldığı kavramları çoktan belirlemişti.
+Kullandıkları bir çok Kontrol Panel'den dert yanan bu ekip MaestroPanel'i geliştirirken temel aldığı kavramları çoktan belirlemişti bile.
 
 Bu kavramlar;
 
 **Sıfır Konfigürasyon (Zero Configuration)**
 
-Kontrol Panel, sunucu üzerindeki güvenlik, performans ve işletim sistemi optimizasyonunu yapmalıdır. Kurulduğunda tamamen Internet ortamında kararlı ve güvenli çalışacek şekilde anahtar teslim bir sistem sunmalıdır.
+Kontrol Panel, sunucu üzerindeki güvenlik, performans ve işletim sistemi optimizasyonunu yapmalıdır. Kurulduğunda tamamen Internet ortamında kararlı ve güvenli çalışacak şekilde anahtar teslim bir sistem sunmalıdır.
 
 **Çoklu Sunucu Desteği**
 
-Web Hosting hizmeti sunarken veya belirli bir proje kapsamında sistemleri yönetirken birden fazla sunucu ile çalışmak kaçınılmazdır. Kontrol Panel birden fazla sunucuyu tek bir yerden yönetebilmeli ve bunu yaparkende lokasyon bağımsız olarak hareket edebilmelidir.
+Web Hosting hizmeti sunarken veya belirli bir proje kapsamında sistemleri yönetirken birden fazla sunucu ile çalışmak kaçınılmazdır. Kontrol Panel birden fazla sunucuyu tek bir yerden yönetebilmeli ve bunu yaparken de lokasyon bağımsız olarak hareket edebilmelidir.
 
 **İşletim Sistemi Bağımsızlığı**
 
@@ -26,9 +26,11 @@ Kontrol Panel kullanıcısı arayüzleri istediği gibi değiştirebilmeli, gere
 
 **Modüler Yapı**
 
-Kontrol Panel bir çok sistem, çalıştırma ortamı ve servis ile haberleşebilmektedir. Bu servisler birbirinden tamamen izole çalışmalı bir diğerinbi etkilememelidir. Kontrol Panel kullanıcısı aynı zamanda kendi sunduğu özel servisleri Kontrol Panel'e modül olarak ekleyebilmelidir.
+Kontrol Panel bir çok sistem, çalıştırma ortamı ve servis ile haberleşebilmektedir. Bu servisler birbirinden tamamen izole çalışmalı biri diğerini etkilememelidir. Kontrol Panel kullanıcısı aynı zamanda kendi sunduğu özel servisleri Kontrol Panel'e modül olarak ekleyebilmelidir.
 
-Tüm bu kavramların göz önüna alınıp sıkı, sıkıya uygulanması ile MaestroPanel ortaya çıkmış ve şu anda Türkiye'nin önde gelen Web Hosting firmalarının beğenisini kazanarak terich ettikleri Kontrol Panel olmuştur.
+İşte;
+
+Tüm bu kavramların göz önüne alınıp sıkı, sıkıya uygulanması ile MaestroPanel ortaya çıkmış ve şu anda Türkiye'nin önde gelen Web Hosting firmalarının beğenisini kazanarak tercihen kullandıkları Kontrol Panel olmuştur.
 
 
 > Bknz: Referanslar http://www.maestropanel.com/Control_Panel/Customers
