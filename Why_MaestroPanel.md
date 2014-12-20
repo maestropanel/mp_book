@@ -18,7 +18,7 @@ Web Hosting sistemlerindeki servisleri geliştirildiği işletim sisteminde çal
 
 **Özgür Arayüzler**
 
-Kontrol Panel kullanıcısı arayüzleri istediği gibi değiştirebilmeli, gerekirse kendi Temasını tasarlayıp Kontrol Panel üzerinde kolaylıkla kullanabilmelidir. Aynı zamanda çoklu dil desteği sağlamalıdır.
+Kontrol Panel kullanıcısı arayüzleri istediği gibi değiştirebilmeli, gerekirse kendi Temasını tasarlayıp Kontrol Panel üzerinde kolaylıkla kullanabilmelidir. 
 
 **Modüler Yapı**
 
