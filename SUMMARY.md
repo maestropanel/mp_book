@@ -22,6 +22,7 @@
     * [Son](UserInterface/Step_End.md)
 * [Profil Yönetimi](UserInterface/Profile.md)
     * [API Anahtarı](UserInterface/Api_Key.md)
+    * [Parola Değiştirme](UserInterface/Change_Password.md)
 * [Domain Yönetimi](Domain/Default.md)
    * [Domain Planları](Domain/Domain_Plans.md)
    * [Yeni Domain Eklemek](Domain/New_Domain.md)
