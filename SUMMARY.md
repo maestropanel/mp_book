@@ -25,6 +25,8 @@
     * [Parola Değiştirme](UserInterface/Change_Password.md)
 * [Domain Yönetimi](Domain/Default.md)
    * [Domain Planları](Domain/Domain_Plans.md)
+    * [Yeni Domain Planı](Domain/New_Domain_Plan.md)
+    * [Domain'e Uygula](Domain/Apply_Domain_Plan.md)
    * [Yeni Domain Eklemek](Domain/New_Domain.md)
    * [Domain'i İçe Aktar](Domain/Domain_Import.md)
    * [Domain Ayarları](Domain/Domain_Properties.md)
