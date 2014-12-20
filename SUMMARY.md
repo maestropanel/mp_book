@@ -5,7 +5,7 @@
 * [Nedir?](Whatis.md)
 * [Neden MaestroPanel?](Why_MaestroPanel.md)
 * [Teknoloji](Tech.md)
-* [Lisanslama](Licensing.md)
+* [Lisanslama](Licensing/Default.md)
 * [Kurulum](Installation/Installation.md)
     * [Windows Server](Installation/Windows.md)
         * [Katılımsız Kurulum](Installation/Installation_Unattended.md)
