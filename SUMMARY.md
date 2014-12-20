@@ -13,7 +13,7 @@
         * [Katılımsız Kurulum](Installation/Installation_Unattended.md)
     * Centos
 * [MaestroPanel](UserInterface/Default.md)
-* [Sihirbaz Adımları](UserInteface/Wizard.md)
+* [Sihirbaz Adımları](UserInterface/Wizard.md)
     * [Adım 1](UserInterface/Step_1.md)
     * [Adım 2](UserInterface/Step_2.md)
     * [Adım 3](UserInterface/Step_3.md)
