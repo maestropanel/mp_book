@@ -10,8 +10,16 @@ MaestroPanel'in lisans anahtarlarının oluşturulduğu ve doğrulandığı alan
 
 adresi üzerinden erişebilirsiniz.
 
+Bu alana ayrı bir servis olup tüm lisanslar ve ödemeler bu alandan Kredi Kartı veya Banka Havalesi ile yapılabilmektedir.
+
 ## Lisans Tipleri
 
-MaestroPanel kiralama usulü kullandırılan bir uygulamadır bu nedenle Aylık ve Yıllık olarak ödeme yapabileceğiniz 2 lisans tipi bulunmaktadır.
+MaestroPanel kiralama usulü kullandırılan bir uygulamadır bu nedenle **Aylık** ve **Yıllık** olarak ödeme yapabileceğiniz 2 lisans tipi bulunmaktadır.
+
+## Bayi Lisanslaması
+
+MaestroPanel'in Bayi Lisanslaması son kullanıcıdan farklıdır. Bayi'ler öndeden herhangi bir ödeme yapmaksızın ay içinde istediği kadar lisans oluşturabilirler. Lisans Kontrol Panel'i ay sonunda aktif lisansları toplayarak Bayi'ye tek bir faturada ödeme şansı verir.
+
+> Bayilik ile ilgli daha fazla bilgi için ping@maestropanel.com'dan Bayilik Dokümantasyonlarını isteyiniz.
 
 
