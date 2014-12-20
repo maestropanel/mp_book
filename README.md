@@ -1,4 +1,7 @@
-mp_book
+MaestroPanel Kullanıcı Kılavzu
 =======
 
-MaestroPanel Kullanıcı Kılavuzu
+Bu kılavuz MaestroPanel Web Hosting Kontrol Panel yazılımının kullanım inceliklerini ve özelliklerini
+anlatmakdadır.
+
+
