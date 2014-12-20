@@ -1,8 +1,12 @@
 ## Neden MaestroPanel?
 
-MaestroPanel alışıla gelmiş, sürekli sorun çıkaran, sizi kısıtlayan, kemik gibi esnek olmaya kontrol panellerin yetersizliğinden çok acılar çekmiş ufak bir ekip tarafından geliştirilmeye karar vermiştir.
+MaestroPanel;
 
-Geçmişteki bir çok Kontrol Panel'den dert yanan bu ekip MaestroPanel'i geliştirirken temel aldığı kavramları çoktan belirlemişti.
+alışıla gelmiş, sürekli sorun çıkaran, sizi kısıtlayan, esnek olmayan kemikleşmiş kontrol panellerin yetersizliğinden çok acılar çekmiş ufak bir ekip tarafından geliştirilmeye karar vermiştir.
+
+Kullandıkları bir çok Kontrol Panel'den dert yanan bu ekip MaestroPanel'i geliştirirken temel aldığı kavramları çoktan belirlemişti.
+
+Bu kavramlar;
 
 **Sıfır Konfigürasyon (Zero Configuration)**
 
@@ -24,4 +28,7 @@ Kontrol Panel kullanıcısı arayüzleri istediği gibi değiştirebilmeli, gere
 
 Kontrol Panel bir çok sistem, çalıştırma ortamı ve servis ile haberleşebilmektedir. Bu servisler birbirinden tamamen izole çalışmalı bir diğerinbi etkilememelidir. Kontrol Panel kullanıcısı aynı zamanda kendi sunduğu özel servisleri Kontrol Panel'e modül olarak ekleyebilmelidir.
 
-İşte tüm bu kavramlar göz önüne alınarak MaestroPanel tasarlanarak hayata geçirilmiş ve bu kavramlar doğrultusunda da geliştirilmeye devam etmektedir.
+Tüm bu kavramların göz önüna alınıp sıkı, sıkıya uygulanması ile MaestroPanel ortaya çıkmış ve şu anda Türkiye'nin önde gelen Web Hosting firmalarının beğenisini kazanarak terich ettikleri Kontrol Panel olmuştur.
+
+
+> Bknz: Referanslar http://www.maestropanel.com/Control_Panel/Customers
