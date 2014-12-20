@@ -7,6 +7,7 @@
 * [Teknoloji](Tech.md)
 * [Lisanslama](Licensing/Default.md)
     * [Lisans Tanımlama](Licensing/Set_License.md)
+    * [Lisans Tanımlama Manual](Licensing/Set_License_Manual.md)
 * [Kurulum](Installation/Installation.md)
     * [Windows Server](Installation/Windows.md)
         * [Katılımsız Kurulum](Installation/Installation_Unattended.md)
