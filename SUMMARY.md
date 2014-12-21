@@ -36,4 +36,6 @@
        * [Domain Modülleri](Domain/Domain_Modules.md)
         * [Yeni Özellik Ekle](Domain/Add_Domain_Module.md)
         * [Özellik Sil](Domain/Delete_Domain_Module.md)
+    * [Limitlemeler](Domain/Limits.md)
+    * [Kaynak Kullanımı](Domain/Resources.md)
 
