@@ -15,3 +15,13 @@ Domain Kullanıcı ekranına ulaşmak için
 menüsünü takip edin.
 
 ![](https://lh4.googleusercontent.com/LAJ_qOXPebuL2sx0X38GYQg_G-mMuFCmNXEtqZwxXmdVI7rIGzmATp1Do_s_yOYJQGvX3uRnC0Q-E0HcvSNY7WF07JkYbc01VfDUlWL65qbBXzI6vakgEkdftVV5tWCQcQ)
+
+# Parola Değiştirme
+
+Domain Kullanıcısı ekranından istenildiğinde Parola Değiştirmeniz mümkündür. Bunun için ilgili ekran üzerinden "Parola Değiştir" butonuna basarak kolayca erişebilirsiniz.
+
+# Durdur / Başlat
+
+Domain Kullanıcısı gerektiğinde durdurulabilir ve gerektiğinde yeniden başlatılabilir. Bu eylem Domain Kullanıcısın MaestroPanel'e giriş yapmasını engeller veya izin verir.
+
+![](https://lh3.googleusercontent.com/KsXwKjpyaTYm1lpc5DkAj9_x5z6B3EYLDJBZr7TaUtH8kRVNtmzy_-gvQRNMarDr6bbmuC3AkwkkbiyPiU7v5gdZ6zLGSFPojTdbeBbdfSSWn1wUjbngGSzJQr5kV1geFw)
