@@ -25,3 +25,13 @@ Domain Kullanıcısı ekranından istenildiğinde Parola Değiştirmeniz mümkü
 Domain Kullanıcısı gerektiğinde durdurulabilir ve gerektiğinde yeniden başlatılabilir. Bu eylem Domain Kullanıcısın MaestroPanel'e giriş yapmasını engeller veya izin verir.
 
 ![](https://lh3.googleusercontent.com/KsXwKjpyaTYm1lpc5DkAj9_x5z6B3EYLDJBZr7TaUtH8kRVNtmzy_-gvQRNMarDr6bbmuC3AkwkkbiyPiU7v5gdZ6zLGSFPojTdbeBbdfSSWn1wUjbngGSzJQr5kV1geFw)
+
+# Domain Kullanıcısını Sil
+
+Domain Kullanıcısına kesinlikle ihtiyacınız yoksa ilgili ekrandan tamamen silebilirsiniz. 
+
+Domain Kullanıcısını sildiğinizde Kullanıcı Hakları, Parola ve Modül Hakları ayarları kaybolur ve tamamen silinir. Tekrar oluşturduğunuzda Hakları tekrar ayarlamanız gerekebilir.
+
+
+
+
