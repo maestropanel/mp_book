@@ -46,4 +46,5 @@
     * Domain Durdur/Başlat
     * Domain Silme
     * Domain Yedekleme
+    * Site Önizlemesi
 
