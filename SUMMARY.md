@@ -38,5 +38,7 @@
         * [Özellik Sil](Domain/Delete_Domain_Module.md)
     * [Limitlemeler](Domain/Limits.md)
     * [Kaynak Kullanımı](Domain/Resources.md)
+        * [Kaynak Kullanım Raporu](Domain/Resources_Usage.md)
+        * [Kaynak Kullanım Geçmişi](Domain/Resources_History.md)
     * [Domain Kullanıcısı](Domain/Domain_User/Default.md)
 
