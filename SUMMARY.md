@@ -41,4 +41,6 @@
         * [Kaynak Kullanım Raporu](Domain/Resources_Usage.md)
         * [Kaynak Kullanım Geçmişi](Domain/Resources_History.md)
     * [Domain Kullanıcısı](Domain/Domain_User/Default.md)
+        * [Domain Kullanıcısı Hakları](Domain/Domain_User/User_Permissions.md)
+        * [Domain Kullanıcısı Modül Hakları](Domain/Domain_User/Module_Permissions.md)
 
