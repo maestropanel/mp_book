@@ -43,7 +43,7 @@
    * [Domain Kullanıcısı](Domain/Domain_User/Default.md)
        * [Domain Kullanıcısı Hakları](Domain/Domain_User/User_Permissions.md)
        * [Domain Kullanıcısı Modül Hakları](Domain/Domain_User/Module_Permissions.md)
-   * [Domain Durdur/Başlat](domain_durdurbaslat.md)
+   * [Domain Durdur/Başlat](Domain/Domain_Stop_Start.md)
    * Domain Silme
    * Domain Yedekleme
    * Site Önizlemesi
