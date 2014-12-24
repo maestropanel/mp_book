@@ -46,5 +46,6 @@
    * [Domain Durdur/Başlat](Domain/Domain_Stop_Start.md)
    * [Domain Silme](Domain/Domain_Delete.md)
    * [Domain Yedekleme](Domain/Backup/Default.md)
+        * [Yeni Yedek](Domain/Backup/New_Backup.md)
    * Site Önizlemesi
 
