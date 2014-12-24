@@ -8,5 +8,7 @@ Durdur komutu verdiğinizde MaestroPanel Domain'e ait servisleri ve kullanıcıl
 
 Varsa DNS alanı durdurulmaz. Askıya alma sayfasına veya benzeri işlemler için DNS alanı gereklidir.
 
-Eposta servisinin kullanıcıları disable olmasına rağmen email almaya devam ederler fakat emaillere kullanıcılar ulaşamazlar.
+Eposta servisinin kullanıcıları Stop olmalarına rağmen mail servisi eposta almaya devam eder fakat kullanıcılar epostalarına erişemezler.
+
+
 
