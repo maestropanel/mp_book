@@ -65,6 +65,12 @@ Kullanabileceğiniz Makrolar:
 
 http://domain.com/admin/result.php?domain={DOMAIN}&status={STATUS}&size={SIZE}
 
+**Zamanlama**
+
+Yedeklemenin otomatik olarak tetiklenmesini Zamanlama özelliğini işaretleyerek sağlayabilirsiniz. Bu alanda Günlük, Haftalık ve Aylık olarak periodlar belirleyebilir ve saatini ayarlayabilirsiniz.
+
+![](https://lh6.googleusercontent.com/LMwqI6Y2PcRKhlQb2e0LhXKH9r0ZcKLxJlX4dskcPGW3_f7AzLG-iVQumvvzp2KTJaJhFlf5QiT8r39d6ZfzL5BX2jUUrD1DUnKj2lj6NHntYzumOlkCwtRD7ek8zPikuQ)
+
 
 
 
