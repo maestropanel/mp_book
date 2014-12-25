@@ -43,7 +43,11 @@ MaestroPanel yedekleme tamamlandığında yedeklemenin başarılı veya başarı
 
 ![](https://lh6.googleusercontent.com/jw35bfxifFOK_f4B-Nne5tfsLbcpwQ4U_APHPhMFvVU0QsLArbBvYyYFjxq7-CacUj52u53ImoqDUHFfCn626mGFTnpXPGeulHUXPUcLzXknccWArubF-3aXbX5vNIfmdg)
 
-M
+MaestroPanel'in bu ve benzeri durumlarda email gönderebilmesi için hangi adresi kulanacağını belirtmelisiniz. Bunun için;
+
+**Ayarlar > Smtp Ayarları**
+
+
 
 
 
