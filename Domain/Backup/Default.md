@@ -12,6 +12,6 @@ menüsünü takip ederek erişebilirsiniz.
 
 MaestroPanel'in dağıtık olarak çalışabilmesinin sonucu yedekleme özelliğide bu doğrultuda çalışmaktadır. Tek Domain altında yönetilen fakat farklı sunuculardaki servislerin yedeklerini alabilir ve bunları yine Domain'in altında birleştirerek size tek bir paket şeklinde sunabilir.
 
-MaestroPanel'de Domian yedekleme ekranı ilk görünümü aşağıdaki gibidir.
+MaestroPanel'de Domain yedekleme ekranı ilk görünümü aşağıdaki gibidir.
 
 ![](https://lh6.googleusercontent.com/HoyCGcdXcFIrgikaC2Gj36j4p6ZgIVwrVN4fP2d8ZSMdxHtielWCWNDqCti_lU-jFsym-wBvCukgLHnPU-ddoE1wZi3c7bm3oUZ0b6JataJJyvn14B2MERcZCv9MAgxEqw)
