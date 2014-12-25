@@ -47,6 +47,7 @@
    * [Domain Silme](Domain/Domain_Delete.md)
    * [Domain Yedekleme](Domain/Backup/Default.md)
         * [Yeni Yedek](Domain/Backup/New_Backup.md)
+            * [Yedek Başlatma/Durdurma](Domain/Backup/Backup_Start_Stop.md)
         * [Geri Yükleme (Restore)](Domain/Backup/Restore.md)
         * [Depolama Alanları](Domain/Backup/Storage_Area.md)
         * [Yedek Paketleme](Domain/Backup/Backup_Package.md)
