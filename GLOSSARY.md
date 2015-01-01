@@ -13,3 +13,7 @@ MaestroPanel'in Web Servisidir. Web uygulaması şeklinde tasarlanmış olup sun
 ## Lisans Kontrol Paneli
 
 MaestroPanel'in lisans yönetimi için kullanılan secure.maestropanel.com üzerinden erişilen bir web servisidir.
+
+## 7z Formatı
+
+Seven Zip, açık kaynaklı bir sıkıştırma formatıdır.
