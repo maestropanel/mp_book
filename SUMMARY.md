@@ -46,12 +46,12 @@
    * [Domain Durdur/Başlat](Domain/Domain_Stop_Start.md)
    * [Domain Silme](Domain/Domain_Delete.md)
    * [Domain Yedekleme](Domain/Backup/Default.md)
-        * [Yeni Yedek](Domain/Backup/New_Backup.md)
-            * [Yedek Başlatma/Durdurma](Domain/Backup/Backup_Start_Stop.md)
-        * [Geri Yükleme (Restore)](Domain/Backup/Restore.md)
-        * [Depolama Alanları](Domain/Backup/Storage_Area.md)
-        * [Yedek Paketleme](Domain/Backup/Backup_Package.md)
-        * [Yedel Download](Domain/Backup/Backup_Download.md)
+       * [Yeni Yedek](Domain/Backup/New_Backup.md)
+           * [Yedek Başlatma/Durdurma](Domain/Backup/Backup_Start_Stop.md)
+       * [Geri Yükleme (Restore)](Domain/Backup/Restore.md)
+       * [Depolama Alanları](Domain/Backup/Storage_Area.md)
+       * [Yedek Paketleme](Domain/Backup/Backup_Package.md)
+       * [Yedel Download](Domain/Backup/Backup_Download.md)
    * [Dışa Aktar](Domain/Export.md)
    * Site Önizlemesi
 
