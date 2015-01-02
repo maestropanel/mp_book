@@ -51,7 +51,7 @@
        * [Geri Yükleme (Restore)](Domain/Backup/Restore.md)
        * [Yedek Paketleme](Domain/Backup/Backup_Package.md)
        * [Depolama Alanları](Domain/Backup/Storage_Area.md)
-        * [Yeni Depolama Alanı](Domain/Backup/New_Storage_Area.md)
+           * [Yeni Depolama Alanı](Domain/Backup/New_Storage_Area.md)
    * [Dışa Aktar](Domain/Export.md)
    * Site Önizlemesi
 
