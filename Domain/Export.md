@@ -12,4 +12,4 @@ menüsünü takip edebilirsiniz.
 
 Dışa Aktar komutu verdikten sonra MaestroPanel Domain'e ait olan tüm özelliklerin çalışma değerlerini toplar ve şablon bir XML dosyasına yazar. Ardıntan otomatik olarak Download etmiş olursunuz.
 
-Dosyanın içeriği Domain'in sahip olduğu özelliklere göre değişim göstermekle beraber
+Dosyanın içeriği Domain'in sahip olduğu özelliklere göre değişim göstermekle beraber parolalar şifrelenmiş olarak gelir, Domain'e ait limitlemeler, domain'in sonlanma tarihi, durumu ve sahip olduğu IP adresinden oluşmaktadır.
