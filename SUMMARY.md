@@ -58,4 +58,10 @@
     * [Bayi Planları](Reseller/Reseller_Plans.md)
         * [Yeni Bayi Planı](Reseller/New_Reseller_Plan.md)
     * [Yeni Bayi](Reseller/New_Reseller.md)
+    * [Bayi Modülleri]
+    * [Bayi Parola Değiştirme]
+    * [Bayi API Anahtarı Tanımlama]
+    * [Bayi İzinleri]
+    * [Domain Sahipliği Değiştirme]
+    * [Bayi Durdurma/Silme]
 
