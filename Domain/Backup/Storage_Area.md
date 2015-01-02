@@ -2,9 +2,9 @@
 
 Depolama Alanları alınan yedeklerin kullanıcının belirleyebileceği alana transfer edilmesini sağlayan bir özelliktir. 
 
-MaestroPanel'de Domain kullanıcısı Uzak FTP için bir depolama alanı ekleyebilir ve alınan yedeklerin bu uzak FTP alanına aktarılmasını sağlayabilir. Diğer yandan Admin seviyesindeki kullacının belirlediği ve izin verdiği depolama alanlarınıda kullanabilmektedir.
+MaestroPanel'de Domain kullanıcısı Uzak FTP için bir depolama alanı ekleyebilir ve alınan yedeklerin bu uzak FTP alanına aktarılmasını sağlayabilir. Diğer yandan admin seviyesindeki kullacının belirlediği ve izin verdiği depolama alanlarınıda kullanabilmektedir.
 
-Domain kullanıcısı kullanabileceği depolama alanlarını görmek için;
+Domain'in kullanabileceği depolama alanlarını görmek için;
 
 **Domainlar > domain.com > Yedekler > Depolama Alanları**
 
