@@ -39,6 +39,10 @@ FTP sunucusunun çalıştığı port numarası. Varsayılan olarak 21
 FTP alanının ilk açılış dizini varsayılan olarak / olarak tanımlanır. Eğer /Backup derseniz yedek dosyaları FTP alanındaki Backup klasörünün altından itibaren yapılandırılacaktır. 
 
 
+## Bağlantıyı Test'et
+
+Bağlantıyı Test'et dediğinizde girmiş olduğunuz bilgilerle FTP alanına bağlanmaya çalışacaktır. Bağlantının başarılı veya başarısız olduğunu buton ile test edebilirsiniz.
+
 
 
 
