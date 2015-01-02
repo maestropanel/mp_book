@@ -54,4 +54,8 @@
            * [Yeni Depolama Alanı](Domain/Backup/New_Storage_Area.md)
    * [Dışa Aktar](Domain/Export.md)
    * [Site Önizlemesi](Domain/Domain_Preview.md)
+* [Bayi Yönetimi](Reseller/Default)
+    * [Bayi Planları](Reseller/Reseller_Plans.md)
+        * [Yeni Bayi Planı](Reseller/New_Reseller_Plan.md)
+    * [Yeni Bayi](Reseller/New_Reseller.md)
 
