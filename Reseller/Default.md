@@ -6,4 +6,4 @@ Bayiler belirli Bayi Planı ile oluşturulurlar. Kendilerine tanımlanan haklar 
 
 Bayiler aynı zamanda kendilerine tanımlanan sunucuları ve IP adreslerini kullanma yetkileride vardır. Bayi seviyesindeki kullanıcılar isterlerse API erişimi üzerinden kendi kullanıcılarını yönetebilirler.
 
-![](/Reseller/reseller_1.PNG)
+![](https://raw.githubusercontent.com/maestropanel/mp_book/master/Reseller/reseller_1.PNG)
